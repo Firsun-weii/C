@@ -1,0 +1,63 @@
+/**
+*任务03_1 数字探秘
+*姓名：魏谦强
+*学号：2016011640
+班级：7班
+*日期：2017/4/15
+*/
+
+
+#include<stdio.h>
+#include<stdlib.h>
+
+int main()
+
+{    
+      int i;
+	  int num=2;
+	  char ch;
+	  printf("请输入一个字符：");
+	  scanf("%c",&ch);
+	  for(i=1;i<8;i++)
+	  {
+	     if((ch>>1)&0x01==0x01)
+			 num++;
+			 
+	  }
+	  printf("%d",num);
+	   system("pause");
+	  return 0;
+
+
+/**
+*任务03_3 小球落地
+*姓名：魏谦强
+*学号：2016011640
+班级：7班
+*日期：2017/4/15
+*/
+
+
+#include<stdio.h>
+#include<stdlib.h>
+
+
+
+int main()
+{
+        double h=100.00;
+		double H=0; 
+		int i=1;
+		for(i=1;i<11;i++)
+		  {
+			  h=h/2;
+			  printf("第%d次反弹的高度:%f\n",i,h);
+			  H=H+h;
+
+		  }
+		printf("小球反弹的总高度:%f",H);
+		 system("pause");
+		return 0;
+
+
+}

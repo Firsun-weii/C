@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "向c语言问好", "向c语言问好\向c语言问好.vcxproj", "{6C902D11-695C-4E2F-85FA-74F0A4D401BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C902D11-695C-4E2F-85FA-74F0A4D401BA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6C902D11-695C-4E2F-85FA-74F0A4D401BA}.Debug|Win32.Build.0 = Debug|Win32
+		{6C902D11-695C-4E2F-85FA-74F0A4D401BA}.Release|Win32.ActiveCfg = Release|Win32
+		{6C902D11-695C-4E2F-85FA-74F0A4D401BA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "任务01_2 法老的金字塔", "任务01_2 法老的金字塔\任务01_2 法老的金字塔.vcxproj", "{848684BD-D830-4B32-AF28-F9B4BC6BD022}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{848684BD-D830-4B32-AF28-F9B4BC6BD022}.Debug|Win32.ActiveCfg = Debug|Win32
+		{848684BD-D830-4B32-AF28-F9B4BC6BD022}.Debug|Win32.Build.0 = Debug|Win32
+		{848684BD-D830-4B32-AF28-F9B4BC6BD022}.Release|Win32.ActiveCfg = Release|Win32
+		{848684BD-D830-4B32-AF28-F9B4BC6BD022}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

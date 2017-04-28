@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02双重循环之九九乘法表之输出奇数列", "02双重循环之九九乘法表之输出奇数列\02双重循环之九九乘法表之输出奇数列.vcxproj", "{17FA6FE5-F8B9-4961-A6C7-39645A37C164}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17FA6FE5-F8B9-4961-A6C7-39645A37C164}.Debug|Win32.ActiveCfg = Debug|Win32
+		{17FA6FE5-F8B9-4961-A6C7-39645A37C164}.Debug|Win32.Build.0 = Debug|Win32
+		{17FA6FE5-F8B9-4961-A6C7-39645A37C164}.Release|Win32.ActiveCfg = Release|Win32
+		{17FA6FE5-F8B9-4961-A6C7-39645A37C164}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

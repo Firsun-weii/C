@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05一维数组取最大值最小值", "05一维数组取最大值最小值\05一维数组取最大值最小值.vcxproj", "{C59A124D-675A-4DBD-8A89-7AEEC5EA6F95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C59A124D-675A-4DBD-8A89-7AEEC5EA6F95}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C59A124D-675A-4DBD-8A89-7AEEC5EA6F95}.Debug|Win32.Build.0 = Debug|Win32
+		{C59A124D-675A-4DBD-8A89-7AEEC5EA6F95}.Release|Win32.ActiveCfg = Release|Win32
+		{C59A124D-675A-4DBD-8A89-7AEEC5EA6F95}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

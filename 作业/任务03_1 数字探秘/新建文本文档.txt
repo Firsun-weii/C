@@ -1,0 +1,51 @@
+#include <cstdio>
+#include<stdio.h>
+#include<stdlib.h>
+int main()
+{
+    char s[2], ch;
+    scanf("%s",s);
+    ch = s[0];
+    int count=0;
+    while(ch>0)
+    {
+        if(ch&1)
+            count++;
+        ch>>=1;
+    }
+    printf("%d\n", count);
+	 system("pause");
+    return 0;
+
+/**
+*任务03_1 数字探秘
+*姓名：魏谦强
+*学号：2016011640
+班级：7班
+*日期：2017/4/15
+*/
+
+
+#include<stdio.h>
+#include<stdlib.h>
+
+int main()
+
+{    
+      int i;
+	  int num=2;
+	  char ch;
+	  printf("请输入一个字符：");
+	  scanf("%c",&ch);
+	  for(i=1;i<8;i++)
+	  {
+	     if((ch>>1)&0x01==0x01)
+			 num++;
+			 
+	  }
+	  printf("%d",num);
+	   system("pause");
+	  return 0;
+
+
+/**

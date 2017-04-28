@@ -1,0 +1,28 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+
+int main()
+{
+
+	float r,h,a,s,v;
+	a=3.00;
+	printf("请输入圆柱体底圆半径为：");
+    scanf("%f,&r");
+	printf("请输入圆柱体高度为：");
+	scanf("%f,&h");
+    s=2*a*r*r+2*a*r*h;
+	v=a*r*r*h;
+	printf("圆柱体表面积为：%.2f,&s\n");
+	printf("圆柱体体积为：%.2f,&v");
+
+	
+
+
+
+	 system("pause");
+	return 0;
+
+}
+
+
